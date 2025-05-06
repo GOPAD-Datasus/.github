@@ -1,1 +1,56 @@
-# GOPAD-Datasus
+<p align="center">
+    <a>
+        <img width="80%" alt="GOPAD DataSUS" src="./imgs/logo.png" />
+    </a>
+</p>
+
+## Hello
+
+We are a team of passionate developers and data scientists working to make Brazil's Unified Health System (SUS) databases more accessible. Our open-source tools and cleaned datasets enable researchers, policymakers, and developers to build data-driven public health solutions without the hassle of raw data wrangling.
+
+> ⚠️ Many projects are under active development and will be released soon! [Follow our organization](https://github.com/GOPAD-Datasus) for updates.
+
+
+## 👨‍💻 Meet the team 👩‍💻
+
+- Hiran Nonato Macedo Ferreira 
+[orcid](https://orcid.org/0000-0002-4977-9495)
+
+- Vinícius Alves Silva 
+[orcid](https://orcid.org/0000-0002-0726-7379)
+
+- R. Morsoleto 
+[orcid](https://orcid.org/0009-0005-4406-764X) | [GitHub](https://github.com/morsoletodev)
+
+- Maria Clara Batista 
+[orcid](https://orcid.org/0009-0008-3830-1710) | [GitHub](https://github.com/batista-s)
+
+## 📈 Works
+
+#### 📄 ETL
+
+- [SINASC](https://github.com/GOPAD-Datasus/ETL-SINASC)
+Automated extraction, transformation, and loading for birth registries.
+
+- [SIM](https://github.com/GOPAD-Datasus/ETL-SIM)
+Mortality data processing pipeline.
+
+#### 🗂️ Curated Databases
+
+- [SINASC](https://github.com/GOPAD-Datasus/DB_SINASC)
+Cleaned and standardized birth records ready for analysis.
+
+- [SIM](https://github.com/GOPAD-Datasus/DB_SIM)
+Processed mortality data with unified schemas.
+
+## 🔬 Papers
+
+- [ICISMED](https://github.com/GOPAD-Datasus/Paper_B-ICISMED-Apriori)
+Association rule mining in SUS datasets (Apriori implementation).
+
+- *More coming soon...*
+
+## 💡 Get Involved
+- Found a bug? Open an issue
+
+- Stay tuned for our future work!

@@ -1,6 +1,6 @@
 <p align="center">
     <a>
-        <img width="80%" alt="GOPAD DataSUS" src="./imgs/logo.png" />
+        <img width="80%" alt="GOPAD DataSUS" src="./imgs/gopad.png" />
     </a>
 </p>
 

@@ -45,10 +45,11 @@ Processed mortality data with unified schemas.
 
 ## 🔬 Papers
 
-- [ICISMED](https://github.com/GOPAD-Datasus/Paper_B-ICISMED-Apriori)
+- [ICISMED](https://github.com/GOPAD-Datasus/Paper_B-ICISMED-Apriori) - 
 Association rule mining in SUS datasets (Apriori implementation).
 
-- *More coming soon...*
+- SBSI | [Paper link](https://sol.sbc.org.br/index.php/sbsi_estendido/article/view/34638) -
+Computational Architecture for Analysis and Decision-Making Support
 
 ## 💡 Get Involved
 - Found a bug? Open an issue

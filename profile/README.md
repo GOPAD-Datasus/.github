@@ -45,8 +45,11 @@ Processed mortality data with an unified schema.
 
 ## 🔬 Papers
 
-- [ICISMED](https://github.com/GOPAD-Datasus/Paper_B-ICISMED-Apriori) - 
-Association rule mining, with Apriori algorithm, in SUS datasets.
+- JOSIF | [Paper link](https://josif.ifsuldeminas.edu.br/ojs/index.php/anais/article/view/2528) - Probabilistic linkage of SINASC and SIM datasets with Record Linkage python library.
+
+- JOSIF | [Paper link](https://josif.ifsuldeminas.edu.br/ojs/index.php/anais/article/view/2583) - Descriptive data analysis of the SINASC database, focused on racial inequalities.
+
+- [ICISMED](https://github.com/GOPAD-Datasus/Paper_B-ICISMED-Apriori) - Association rule mining, with Apriori algorithm, on the SINASC dataset.
 
 - SBSI | [Paper link](https://sol.sbc.org.br/index.php/sbsi_estendido/article/view/34638) -
 Computational Architecture for Analysis and Decision-Making Support.

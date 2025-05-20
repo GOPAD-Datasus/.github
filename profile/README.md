@@ -45,7 +45,7 @@ Processed mortality data with an unified schema.
 
 ## 🔬 Papers
 
-- JOSIF | [Paper link](https://josif.ifsuldeminas.edu.br/ojs/index.php/anais/article/view/2528) - Probabilistic linkage of SINASC and SIM datasets with Record Linkage python library.
+- [JOSIF](https://github.com/GOPAD-Datasus/Paper_A1-JOSIF-Linkage) | [Paper link](https://josif.ifsuldeminas.edu.br/ojs/index.php/anais/article/view/2528) - Probabilistic linkage of SINASC and SIM datasets with Record Linkage python library.
 
 - JOSIF | [Paper link](https://josif.ifsuldeminas.edu.br/ojs/index.php/anais/article/view/2583) - Descriptive data analysis of the SINASC database, focused on racial inequalities.
 

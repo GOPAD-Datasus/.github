@@ -54,6 +54,8 @@ Processed mortality data with an unified schema.
 - SBSI | [Paper link](https://sol.sbc.org.br/index.php/sbsi_estendido/article/view/34638) -
 Computational Architecture for Analysis and Decision-Making Support.
 
+- And more...
+
 ## 💡 Get Involved
 - Found a bug? Open an issue!
 

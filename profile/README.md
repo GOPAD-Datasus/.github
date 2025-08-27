@@ -49,10 +49,12 @@ Processed mortality data with an unified schema.
 
 - JOSIF | [Paper link](https://josif.ifsuldeminas.edu.br/ojs/index.php/anais/article/view/2583) - Descriptive data analysis of the SINASC database, focused on racial inequalities.
 
-- [ICISMED](https://github.com/GOPAD-Datasus/Paper_B-ICISMED-Apriori) - Association rule mining, with Apriori algorithm, on the SINASC dataset.
+- [ICISMED](https://github.com/GOPAD-Datasus/Paper_B-ICISMED-Apriori) - Association rule mining combined with clustering, on SINASC 2022 dataset to find causes of high apgar score in births.
 
 - SBSI | [Paper link](https://sol.sbc.org.br/index.php/sbsi_estendido/article/view/34638) -
 Computational Architecture for Analysis and Decision-Making Support.
+
+- [Dohad](https://github.com/GOPAD-Datasus/Paper_E-Dohad-Apriori) - Association rule mining with Apriori algorithm combined with clustering and PCA, on SINASC 2023 dataset, focused on broad analysis of natal outcomes. 
 
 - And more...
 
